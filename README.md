@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I'm a web developer focused on building modern, scalable, and user-friendly web applications using cutting-edge frontend technologies.<br><br>🎓 I recently graduated from Lomonosov Moscow State University (MSU) with a degree in Applied Mathematics and Computer Science.<br>🛠 My diploma project — FCircuit Simulator — is a web application for modeling, visualizing, and analyzing delay-based logical control circuits, fully implemented with vanilla JavaScript, DOM manipulation, and custom logic for circuit simulation.<br>📦 I successfully built React Cards App, a production-level learning tool developed with React 19, Vite, React Router v7, custom React hooks, JSON-server for REST API emulation, and modern state management techniques.<br>💡 I have also mastered TypeScript and am currently building my personal portfolio website with React + TypeScript, where I will showcase my projects and technical expertise.<br><br>I'm continuously improving my skills and exploring modern frontend ecosystems, with particular interest in React, TypeScript, performance optimization, and clean, maintainable code.
+Hi there! 👋
+
+I'm a web developer focused on building modern, scalable, and user-friendly web applications using cutting-edge frontend technologies.
+
+🎓 I recently graduated from Lomonosov Moscow State University (MSU) with a degree in Applied Mathematics and Computer Science.  
+🛠 My diploma project — **FCircuit Simulator** — is a web application for modeling, visualizing, and analyzing delay-based logical control circuits, fully implemented with vanilla JavaScript, DOM manipulation, and a custom simulation engine.  
+📦 I successfully built **React Cards App**, a production-level learning tool developed with React 19, Vite, React Router v7, custom React hooks, JSON-server for REST API emulation, and modern component-based architecture.  
+🌐 I also completed **My Web Side**, my personal portfolio built with React and TypeScript, where I present my projects, technical background, and experience as a frontend developer.
+
+I'm continuously improving my skills and exploring modern frontend ecosystems, with particular interest in React, TypeScript, performance optimization, and clean, maintainable code.
+
 
 
 ## 🌐 Socials:
